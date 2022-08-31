@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+        <h1>Título de artigo</h1>
+    </header>
+<img src="https://c.tenor.com/SCG4zzYwpO0AAAAM/ping%C3%BCi.gif" alt="">
+<img src="https://i.makeagif.com/media/7-13-2021/tpV3Xz.gif" alt="">
+    Escrito por: Rafael Lopes dos Santos
+    <nav>
+            <a href="01.header.html">home</a> |
+            <a href="04.filmes.txt">filmes</a> |
+            <a href="05.musicas.txt">musícas</a>
+        </nav>
+        <p>
+            Olá pessoal, sejam bem vindos a minha pagina.
+        </p>
+
+        <footer>
+            <p>copyright&copy; - todos os direitos reservados</p>
+        </footer>
+
+</body>
+
+</html>
